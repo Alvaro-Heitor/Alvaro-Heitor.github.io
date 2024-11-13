@@ -5,6 +5,7 @@
   width: 100%;
   z-index: 10;
   background-color: var(--white);
+  color:#1020ca;
 }
 
 .navbar .navbar__content {
