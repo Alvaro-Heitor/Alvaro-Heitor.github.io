@@ -17,6 +17,9 @@ header .header__left p {
   max-width: 50rem;
 }
 
+header .header__left a:hover {
+  color: var(--tertiary-color);
+}
 header .header__right .header__image {
   position: relative;
   line-height: 0;
@@ -53,7 +56,7 @@ header .header__right .header__image .background {
     flex-direction: column-reverse;
     text-align: center;
   }
-  header .header__lefts p{
+  header .header__left p{
     margin: 2rem auto 4rem;
   }
 } 
